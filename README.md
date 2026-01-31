@@ -51,11 +51,7 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rumaisa19&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=Rumaisa19&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=9ca3af" alt="GitHub Streak"/>
@@ -84,5 +80,5 @@
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! Let's build something amazing together 🚀</b>
+  <b>Thanks for visiting! Check out my pinned projects below 👇</b>
 </p>
