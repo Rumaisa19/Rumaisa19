@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rumaisa19&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=9ca3af" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=Rumaisa19&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=9ca3af" alt="GitHub Streak"/>
 </p>
 
 ---
