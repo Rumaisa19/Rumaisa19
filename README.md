@@ -13,7 +13,7 @@
 ## 🎯 About Me
 🎓 6th Semester Software Engineering Student at **UBIT, University of Karachi**  
 💼 Seeking **Flutter Internships** and mobile development opportunities  
-🛠️ Working with **Flutter, Dart, Firebase, Provider, Hive, MySQL**  
+🛠 Working with Flutter, Dart, Provider, Hive, and SQL (MySQL/PostgreSQL)**  
 📱 Building mobile applications with clean architecture
 
 ---
